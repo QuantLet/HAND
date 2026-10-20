@@ -14,11 +14,11 @@ Description: All source codes for HAND.
 Submitted: 13 Mar 2023
 
 Keywords: 
-- 'Crypto
-- 'Causality
-- 'GARCH
+- Crypto
+- Causality
+- GARCH
 
 Author: 
-- 'Min-Bin Lin
+- Min-Bin Lin
 
 ```
